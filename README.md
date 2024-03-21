@@ -29,5 +29,5 @@ Contributions to the project are welcome! If you have any suggestions, bug repor
 
 Acknowledgments:
 
-We acknowledge the Google Gemini Pro Free LLM Model for powering the natural language processing capabilities of this project.
+I acknowledge the Google Gemini Pro Free LLM Model for powering the natural language processing capabilities of this project.
 Special thanks to the open-source community for their contributions to the libraries and frameworks used in this project.
